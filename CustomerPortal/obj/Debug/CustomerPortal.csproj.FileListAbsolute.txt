@@ -157,8 +157,3 @@ C:\Projects\git\RestTest\CustomerPortal\bin\Microsoft.Owin.Security.MicrosoftAcc
 C:\Projects\git\RestTest\CustomerPortal\bin\System.Web.Http.Owin.xml
 C:\Projects\git\RestTest\CustomerPortal\obj\Debug\CustomerPortal.dll
 C:\Projects\git\RestTest\CustomerPortal\obj\Debug\CustomerPortal.pdb
-D:\Projects\git\AngularJSRestApi\CustomerPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Projects\git\AngularJSRestApi\CustomerPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Projects\git\AngularJSRestApi\CustomerPortal\bin\roslyn\System.Collections.Immutable.dll
-D:\Projects\git\AngularJSRestApi\CustomerPortal\bin\roslyn\System.Reflection.Metadata.dll
-D:\Projects\git\AngularJSRestApi\CustomerPortal\bin\roslyn\VBCSCompiler.exe
